@@ -25,3 +25,6 @@ for(var i =1; i<=5; i++){
 
 document.write("Total number of win : " + numOfWin + "</br>");
 document.write("Total number is lost : " + numOfLost + "</br>");
+//ends
+
+
